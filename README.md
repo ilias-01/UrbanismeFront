@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### npm install primevue @primeuix/themes  --- npm i tailwindcss-primeui
+### npm install -D tailwindcss@3 postcss autoprefixer
+### npm install primeicons
